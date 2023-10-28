@@ -1,0 +1,18 @@
+*, *::after, *::before{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../public/images/menu-background.jpg);
+    background-size: cover;
+}
+
+.container{
+    background-image: url(../public/images/700x700.webp);
+    background-repeat: no-repeat;
+    background-size: ;
+}

@@ -38,7 +38,7 @@ const handleButtonClick = () => {
 
     return(
         <>
-        <h2>I'm Home component</h2>
+        <h2>Codice de Boca</h2>
         <button onClick={() => {handleButtonClick('hey class😎')}}>Get Data</button>
         {menuItems && 
         menuItems.map(singleItem => {
